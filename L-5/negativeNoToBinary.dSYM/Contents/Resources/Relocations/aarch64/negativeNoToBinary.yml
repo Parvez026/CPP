@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/parvezalam/Downloads/CPP/L-5/negativeNoToBinary'
+relocations:     []
+...
